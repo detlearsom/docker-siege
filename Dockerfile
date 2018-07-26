@@ -1,5 +1,4 @@
 FROM ubuntu:latest
-MAINTAINER Kazuya Yokogawa "yokogawa-k@klab.com"
 
 ENV DEBIAN_FRONTEND noninteractive
 RUN apt-get update \
